@@ -1,0 +1,64 @@
+-------------LAURA3--------------
+ # of itereations: 5002
+Reflect Laura 4 ********************
+-------reflec    11 = 0    tXXXXXXXXXXXXX ---------------
+Net output is: 0.678451
+
+Layer 0
+Neuron output: 1
+Neuron output: 1
+
+Layer 1
+Neuron output: 0  -------> Weights: -2337.5, -7653.38,     Bias 2  Weight -1.83273
+Neuron output: 0  -------> Weights: -2120.74, -4082.58,     Bias 2  Weight -0.756433
+Neuron output: 0  -------> Weights: -1767.46, -4451.1,     Bias 2  Weight -0.816393
+
+Layer 2
+Neuron output: 0.678451  -------> Weights: 8570.02, -8445.72, -7109.65,     Bias 2  Weight 0.373331
+
+-------reflec  01 = 1      tXXXXXXXXXXXXX ---------------
+Net output is: 0.678451
+
+Layer 0
+Neuron output: 0
+Neuron output: 1
+
+Layer 1
+Neuron output: 0  -------> Weights: -2337.5, -7653.38,     Bias 2  Weight -1.83273
+Neuron output: 0  -------> Weights: -2120.74, -4082.58,     Bias 2  Weight -0.756433
+Neuron output: 0  -------> Weights: -1767.46, -4451.1,     Bias 2  Weight -0.816393
+
+Layer 2
+Neuron output: 0.678451  -------> Weights: 8570.02, -8445.72, -7109.65,     Bias 2  Weight 0.373331
+
+-------reflec   10 = 1     tXXXXXXXXXXXXX ---------------
+Net output is: 0.678451
+
+Layer 0
+Neuron output: 1
+Neuron output: 0
+
+Layer 1
+Neuron output: 0  -------> Weights: -2337.5, -7653.38,     Bias 2  Weight -1.83273
+Neuron output: 0  -------> Weights: -2120.74, -4082.58,     Bias 2  Weight -0.756433
+Neuron output: 0  -------> Weights: -1767.46, -4451.1,     Bias 2  Weight -0.816393
+
+Layer 2
+Neuron output: 0.678451  -------> Weights: 8570.02, -8445.72, -7109.65,     Bias 2  Weight 0.373331
+
+-------reflec    00 = 0    tXXXXXXXXXXXXX ---------------
+Net output is: 0
+
+Layer 0
+Neuron output: 0
+Neuron output: 0
+
+Layer 1
+Neuron output: 0.0249537  -------> Weights: -2337.5, -7653.38,     Bias 2  Weight -1.83273
+Neuron output: 0.180514  -------> Weights: -2120.74, -4082.58,     Bias 2  Weight -0.756433
+Neuron output: 0.163449  -------> Weights: -1767.46, -4451.1,     Bias 2  Weight -0.816393
+
+Layer 2
+Neuron output: 0  -------> Weights: 8570.02, -8445.72, -7109.65,     Bias 2  Weight 0.373331
+
+----------------------
